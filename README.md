@@ -32,6 +32,4 @@ I edited this file using `Markdown` on GitHub.
 
 [Visit the official Netflix page](https://www.netflix.com)
 
-### Image
 
-![Stranger Things poster](image.jpg)
